@@ -1,7 +1,7 @@
-vikramtiwari.github.io
+surya-yogi.github.io
 ======================
 
-Github repo for Vikram Tiwari's Website
+Github repo for 33's Website
 
 ## How to create one for yourself
 1. Fork the repo
