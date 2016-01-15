@@ -1,7 +1,7 @@
-surya-yogi.github.io
+hhhassan7.github.io
 ======================
 
-Github repo for 33's Website
+Github repo for Hassan's Website
 
 ## How to create one for yourself
 1. Fork the repo
