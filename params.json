@@ -1,0 +1,6 @@
+{
+  "name": "Hhhassan7.GitHub.io",
+  "tagline": "",
+  "body": "hhhassan7.github.io\r\n======================\r\n\r\nGithub repo for Hassan's Website\r\n\r\n## How to create one for yourself\r\n1. Fork the repo\r\n2. Rename the repo as your-user-name.github.io\r\n3. Check at http://your-user-name.github.io\r\n4. Make changes as you want!\r\n\r\n## How to run and make changes locally\r\nSimply go to your cloned directory and if you have\r\n\r\n1. NodeJS ```server```\r\n2. Python 2.7x ```python -m SimpleHTTPServer```\r\n3. Python 3.x ```python -m http.server```\r\n\r\n#### Don't forget to star the repo if you like it ;)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
