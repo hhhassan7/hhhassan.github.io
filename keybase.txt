@@ -5,8 +5,7 @@ https://keybase.io/hhhassan7.github.io
 I hereby claim:
 
   * I am an admin of http://hhhassan7.github.io
-  * I am vikramtiwari (https://keybase.io/hhhassan7.github.io) on keybase.
-  * I have a public key with fingerprint 
+  * I am hhhassan7 (https://keybase.io/hhhassan7.github.io) on keybase.
 
 To do so, I am signing this object:
 
